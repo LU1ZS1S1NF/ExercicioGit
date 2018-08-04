@@ -19,7 +19,7 @@ class Operacao {
     }
     
     public int multiplicacao () { 
-        return 0;
+        return 1;
     }
     
     public double divisao (double n1, double n2) {
