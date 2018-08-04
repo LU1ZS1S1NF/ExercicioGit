@@ -18,12 +18,12 @@ public class Main {
         
         operacao.soma();
         
-        double n1,n2;
+        double numero1,numero2;
         System.out.println("Digite o primeiro numero inteiro");
         n1 = input.nextInt();  
         System.out.println("Digite o segundo numero inteiro");
         n2 = input.nextInt(); 
-        operacao.calculaMedia(n1,n2);
+        operacao.calculaMedia(numero1,numero2);
         
         int resposta;
         resposta = operacao.multiplicacao();
